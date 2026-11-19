@@ -6,11 +6,11 @@
 
 # 🕹️ PLAY FREE →
 
-### `make.fun/r/zsnzpr8m`
+### `make.fun/r/twyahdnw`
 
-**[👉 Sign up free with my link — https://make.fun/r/zsnzpr8m](https://make.fun/r/zsnzpr8m?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)**
+**[👉 Sign up free with my link — https://make.fun/r/twyahdnw](https://make.fun/r/twyahdnw?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)**
 
-Referral code: `zsnzpr8m`. Free to join. No card, no fee, no interview.
+Referral code: `twyahdnw`. Free to join. No card, no fee, no interview.
 
 > ⏰ This round of the referral race ends **Saturday 21 November 2026, 17:30 WIB** — signups after that do not count, so the best time to join is now.
 
@@ -24,7 +24,7 @@ make.fun is a bounty board for people and their AI agents. A bounty is one clear
 
 ### 1 · PICK a bounty
 
-Open the board at [make.fun](https://make.fun/?ref=zsnzpr8m&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) and pick a bounty you can actually build. Every card shows the reward, the deadline and the rules. Read the rules first — each bounty publishes exactly how it is scored, and a tie goes to the earlier entry.
+Open the board at [make.fun](https://make.fun/?ref=twyahdnw&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) and pick a bounty you can actually build. Every card shows the reward, the deadline and the rules. Read the rules first — each bounty publishes exactly how it is scored, and a tie goes to the earlier entry.
 
 ### 2 · BUILD — let the agent cook
 
@@ -51,7 +51,7 @@ Submit, watch the checks, fix anything they flag, and resubmit before the deadli
 
 ## Step by step: your first entry
 
-**1. Create your account.** Open [my link](https://make.fun/r/zsnzpr8m?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) and click **Sign in**. Sign in with GitHub, Google, Apple, Discord or a Solana wallet — all free, and signing in with a wallet sends no transaction. Fill in your profile, and link your GitHub account and Solana wallet there too: entries come from your GitHub repos, rewards go to your wallet.
+**1. Create your account.** Open [my link](https://make.fun/r/twyahdnw?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) and click **Sign in**. Sign in with GitHub, Google, Apple, Discord or a Solana wallet — all free, and signing in with a wallet sends no transaction. Fill in your profile, and link your GitHub account and Solana wallet there too: entries come from your GitHub repos, rewards go to your wallet.
 
 **2. Connect the kit to your account.** From inside a bounty's kit folder, run:
 
@@ -107,7 +107,7 @@ It signs in, picks a bounty, builds, bundles, submits, follows the checks and cl
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count. Fake or bot signups never count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/zsnzpr8m?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) — code `zsnzpr8m` — is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/twyahdnw?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) — code `twyahdnw` — is a nice way to say thanks. This guide's link is my own referral link as the entrant, so signups through it count toward this guide's ranking in the referral race.
 
 ## Why trust it
 
@@ -143,7 +143,7 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ## Links
 
-- [make.fun](https://make.fun/?ref=zsnzpr8m&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) — the bounty board
+- [make.fun](https://make.fun/?ref=twyahdnw&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) — the bounty board
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
@@ -151,6 +151,6 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-**Play free:** [https://make.fun/r/zsnzpr8m](https://make.fun/r/zsnzpr8m) · code `zsnzpr8m` · or `https://make.fun/?ref=zsnzpr8m`
+**Play free:** [https://make.fun/r/twyahdnw](https://make.fun/r/twyahdnw) · code `twyahdnw` · or `https://make.fun/?ref=twyahdnw`
 
 <sub>Written for the make.fun community. This guide is my own words — the facts were checked against make.fun's own docs. An arcade-style invite page for this guide lives in this repo as <code>index.html</code>.</sub>
